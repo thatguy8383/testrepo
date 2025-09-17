@@ -1,4 +1,4 @@
-just a test file.
-just trying to play with github
-i can what else i want to do here
-this just a simple test. 
+Just a test file.
+Just trying to play with github.
+I can try  what else I want to do here.
+This just a simple test. 
